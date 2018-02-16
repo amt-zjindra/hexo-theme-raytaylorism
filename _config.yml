@@ -16,11 +16,6 @@ menu:
     category: true
     icon: bookmark
     class: menu-category
-  # 读书
-  - id: reading
-    link: /reading
-    icon: book
-    class: menu-reading
   # 关于
   - id: about
     link: /about
@@ -38,23 +33,23 @@ color:
   footer: indigo
   page_nav: indigo
   side_nav: indigo darken-1
-  tag: pink lighten-1
+  tag: blue lighten-1
   article_title_link: indigo
-  link: pink
-  pagination: pink
-  tab: pink
+  link: blue 
+  pagination: blue darken-2
+  tab: blue
   archive_item: grey
-  fab: pink
+  fab: blue darken-2
   fab_2: green
   fab_3: yellow darken-1
-  new: pink
+  new: blue darken-2
   about_header: indigo
   about_title: indigo
 
 archive_yearly: true
 
 # 版权信息
-copyright: © 2016 example.com, All rights reserved.
+copyright: © 2018 AmTrust North America, All rights reserved.
 
 # Disqus评论shortname，若为空则不启用
 disqus_shortname:
