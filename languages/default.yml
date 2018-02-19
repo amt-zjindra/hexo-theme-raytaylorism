@@ -22,9 +22,6 @@ menu:
     about: About
     search: Search
 social: Social
-powered:
-    first: "Blog powered by"
-    last: "| Theme"
 current_page: Current page
 page_name:
     categories: (Categories)

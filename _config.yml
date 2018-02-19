@@ -29,27 +29,27 @@ menu:
 
 # 颜色配置
 color:
-  header: indigo
-  footer: indigo
-  page_nav: indigo
-  side_nav: indigo darken-1
+  header: blue darken-4
+  footer: blue darken-4
+  page_nav: blue darken-3
+  side_nav: blue darken-3
   tag: blue lighten-1
-  article_title_link: indigo
+  article_title_link: white
   link: blue 
-  pagination: blue darken-2
+  pagination: blue darken-3
   tab: blue
   archive_item: grey
-  fab: blue darken-2
-  fab_2: green
-  fab_3: yellow darken-1
-  new: blue darken-2
-  about_header: indigo
-  about_title: indigo
+  fab: blue 
+  fab_2: blue
+  fab_3: blue darken-3
+  new: blue darken-3
+  about_header: blue darken-3
+  about_title: blue darken-3
 
 archive_yearly: true
 
 # 版权信息
-copyright: © 2018 AmTrust North America, All rights reserved.
+copyright:
 
 # Disqus评论shortname，若为空则不启用
 disqus_shortname:
